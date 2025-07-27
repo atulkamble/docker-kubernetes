@@ -6,6 +6,11 @@
 
 ---
 
+# Architecture of k8s 
+
+![Kubernetes Cluster Architecture](https://github.com/atulkamble/docker-kubernetes/raw/main/kubernetes-cluster-architecture.svg)
+
+
 ## 🖥️ **System Requirements & Prerequisites**
 
 ### ✅ BIOS Setup
